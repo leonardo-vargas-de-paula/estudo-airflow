@@ -3,7 +3,7 @@ airflow/logs
 airflow/dags/__pycache__/
 airflow/plugins/
 airflow/.env
-src/dbt/password.sh
+src/dbt/account.sh
 src/dbt/logs/
 src/dbt/target/
 src/dbt/macros
