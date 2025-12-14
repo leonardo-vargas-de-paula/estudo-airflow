@@ -8,3 +8,4 @@ src/dbt/logs/
 src/dbt/target/
 src/dbt/macros
 src/dbt/models
+src/dbt/.user.yml
