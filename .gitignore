@@ -1,0 +1,6 @@
+venv/
+airflow/logs
+airflow/dags/__pycache__/
+airflow/plugins/
+airflow/.env
+src/dbt/password.sh
